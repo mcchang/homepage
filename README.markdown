@@ -1,1 +1,0 @@
-This is my homepage.  It should be deployed [here](http://i.am.michaelychang.com)
