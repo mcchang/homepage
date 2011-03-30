@@ -17,8 +17,7 @@ html, body {
 
 body {
   background-color: white;
-  font: 13.34px helvetica, arial, clean, sans-serif;
-  *font-size: small;
+  font: 15px helvetica, arial, clean, sans-serif;
   text-align: center;
 }
 
@@ -36,6 +35,7 @@ p {
 
 a {
   color: #211D26;
+  text-decoration: none;
 }
 
 a:hover {
@@ -59,11 +59,15 @@ table {
 
 ul.posts {
   list-style-type: none;
-  margin-bottom: 2em;
 }
 
   ul.posts li {
-    line-height: 1.75em;
+    line-height: 1.50em;
+  }
+
+  ul.posts div.titles {
+    float: left;
+    margin-right: 2em;
   }
 
   ul.posts span {
@@ -79,9 +83,8 @@ ul.posts {
 /*****************************************************************************/
 
 .site {
-  font-size: 110%;
   text-align: justify;
-  width: 40em;
+  width: 45em;
   margin: 3em auto 2em auto;
   line-height: 1.5em;
 }
@@ -90,7 +93,7 @@ ul.posts {
   color: #211D26;
   font-weight: bold;
   font-size: 150%;
-  margin-bottom: 1em;
+  margin-bottom: 0.75em;
 }
 
   .site .title a {
@@ -122,18 +125,20 @@ ul.posts {
 
   .site .footer {
     font-size: 90%;
+    font-weight: 570;
     color: #3B4373;
-    border-top: 1.5px solid #3B4373;
+    border-top: 2px dashed #3B4373;
     margin-top: 1em;
     overflow: hidden;
   }
 
     .site .footer .contact {
       float: left;
-      margin-right: 3em;
+      margin-right: 2em;
     }
 
       .site .footer .contact a {
+        font-weight: normal;
         color: #2375BF;
       }
 
