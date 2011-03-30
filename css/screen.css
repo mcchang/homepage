@@ -149,6 +149,11 @@ ul.posts {
 }
 
   /* standard */
+  
+  #post a {
+    text-decoration: underline;
+  }
+
   #post h1 {
     font-size: 125%;
     margin-bottom: 0em;
