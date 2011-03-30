@@ -1,3 +1,4 @@
 markdown: rdiscount
 pygments: true
-auto: false
+auto: true
+server: false
