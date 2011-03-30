@@ -25,12 +25,8 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 100%;
 }
 
-h1 {
-  margin-bottom: 1em;
-}
-
 p {
-  margin: 1em 0;
+  margin: 0.5em 0;
 }
 
 a {
@@ -117,6 +113,7 @@ ul.posts {
   .site .section {
     color: #3B4373;
     font-size: 125%;
+    margin-bottom: 0.4em;
   }
 
   .site .meta {
@@ -152,6 +149,11 @@ ul.posts {
 }
 
   /* standard */
+  #post h1 {
+    font-size: 125%;
+    margin-bottom: 0em;
+    color: #3B4373;
+  }
 
   #post pre {
     border: 1px solid #ddd;
