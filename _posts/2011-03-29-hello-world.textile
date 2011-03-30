@@ -2,6 +2,6 @@
 layout: post
 title: Hello World! 
 ---
-{{ page.title }}
-================
+h1. {{ page.title }}
+
 I'm changing the site to include links to a resume and interests.
