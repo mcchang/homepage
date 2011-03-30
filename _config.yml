@@ -1,3 +1,4 @@
 pygments: true
 auto: true
+lsi: true
 server: false

@@ -4,3 +4,20 @@ layout: default
 <div id="post">
 {{ content }}
 </div>
+
+<div id="related">
+  <h2>Related Posts</h2>
+  <ul class="posts">
+    <div class="titles">
+      {% for post in site.related_posts limit:3 %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </div>
+      {% for post in site.related_posts limit:3 %}
+      <li><span>{{ post.date | date_to_string }}</span></li>
+      {% endfor %}
+    <div>
+    </div>
+  </ul>
+</div>
+
