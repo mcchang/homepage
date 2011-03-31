@@ -79,7 +79,7 @@ ul.posts {
 
 .site {
   text-align: justify;
-  width: 45em;
+  width: 50em;
   margin: 3em auto 2em auto;
   line-height: 1.5em;
 }
@@ -201,3 +201,50 @@ ul.posts {
   #related h2 {
     margin-bottom: 0.5em;
   }
+
+/*****************************************************************************/
+/*
+/* Resume 
+/*
+/*****************************************************************************/
+
+#resume {
+
+}
+  
+  #resume h1 {
+    font-size: 150%;
+  }
+
+  #resume h2 {
+    margin-top: 1em;
+  }
+
+  #resume div#address {
+    float: right;
+    text-align: right;
+  }
+
+  #resume div#sections {
+    clear:right;
+  }
+
+  #resume ul {
+    margin-left: 1em;
+  }
+
+    #resume ul ul {
+      margin-left: 0em;
+    }
+    
+      #resume ul ul ul {
+        margin-left: 1em;
+      }
+
+  #resume li {
+    list-style-type: none;
+  }
+    
+    #resume li.description {
+      list-style: disc inside;
+    }
