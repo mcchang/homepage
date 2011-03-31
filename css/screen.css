@@ -17,7 +17,7 @@ html, body {
 
 body {
   background-color: white;
-  font: 16px "Amaranth", helvetica, arial, clean, sans-serif;
+  font: 15px "Cabin", helvetica, arial, clean, sans-serif;
   text-align: center;
 }
 
@@ -209,7 +209,7 @@ ul.posts {
 /*****************************************************************************/
 
 #resume {
-
+  font-size: 90%;
 }
   
   #resume h1 {
@@ -217,6 +217,7 @@ ul.posts {
   }
 
   #resume h2 {
+    font-size: 120%;
     margin-top: 1em;
   }
 
@@ -245,6 +246,6 @@ ul.posts {
     list-style-type: none;
   }
     
-    #resume li.description {
+    #resume li.bullet {
       list-style: disc inside;
     }

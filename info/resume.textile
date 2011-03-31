@@ -11,48 +11,48 @@ michaelychang [@] berkeley [dot] edu // 408-221-5689
 
 <div id="sections">
 h2. Education
-* UC Berkeley
-** B.S., Electrical Engineering and Computer Sciences with Honors: GPA 3.86 (May 2011)
+* *UC Berkeley*
+** B.S. Electrical Engineering and Computer Sciences with Honors: GPA 3.86 (May 2011)
 ** *Relevant Coursework*
-** Structure of Computer Programs, Machine Structures, Database Systems, Operating Systems, Computer Security, Artificial Intelligence, Programming Languages and Compilers, Probability and Random Processes, Algorithms and Intractable Problems
+** Structure of Computer Programs, Machine Structures, Database Systems, Operating Systems, Security, Artificial Intelligence, Programming Languages and Compilers, Probability and Random Processes, Algorithms and Intractable Problems
 
 h2. Experience
 
 * *Software Engineer Intern* %(date)(Aug 2010 - Dec 2010)%
 ** _Google Inc., San Bruno CA_
-***(description) Analyzed and implemented graph clustering and samling algorithms into production pipeline to help improve Youtube homepage video recommendations and filtering of videos by semantic categories
+***(bullet) Analyzed and implemented graph clustering and samling algorithms into production pipeline to help improve Youtube homepage video recommendations and filtering of videos by semantic categories
 * *Software Engineer Intern* %(date)(May 2010 - Aug 2010)%
 ** _Apple Inc., Cupertino CA_
-***(description) Extended and added new functionality to backend frameworks in iPhoto to facilitate development of future features
+***(bullet) Extended and added new functionality to backend frameworks in iPhoto to facilitate development of future features
 * *Research Assistant* %(date)(Jan 2010 - May 2010)%
 ** _School of Information, UC Berkeley_
-***(description) Utilized document clustering and classification techniques to systematically categorize thousands of news articles
-***(description) Analyzed statistically the correlation between phone transactions in Rwanda and the various events in the timespan
+***(bullet) Utilized document clustering and classification techniques to systematically categorize thousands of news articles
+***(bullet) Analyzed statistically the correlation between phone transactions in Rwanda and the various events in the timespan
 * *Web Developer* %(date)(Jun 2009 - Oct 2009)%
 ** _1530 Technologies, Chicago IL_
-***(description) Built web application backend from the ground up using Django Python framework and Amazon Flexible Payment Services that allows for small franchises to award their employees using discount codes efficiently
-***(description) Prepared database migration and remote deployment scripts in Python to ensure smooth schema and database engine migrations, facilitating extendability and scalability in the future as the user base increases in size
+***(bullet) Built web application backend from the ground up using Django Python framework and Amazon Flexible Payment Services that allows for small franchises to award their employees using discount codes efficiently
+***(bullet) Prepared database migration and remote deployment scripts in Python to ensure smooth schema and database engine migrations, facilitating extendability and scalability in the future as the user base increases in size
 * *Software Engineer* %(date)(Oct 2008 - Jan 2010)%
 ** _Application Services, Residential &amp; Student Service Programs IT, UC Berkeley_
-***(description) Developed and maintained Perl web applications with a team of eight programmers in an Unix environment designed to assist both technical support staff and students with managing network usage in the residential halls
+***(bullet) Developed and maintained Perl web applications with a team of eight programmers in an Unix environment designed to assist both technical support staff and students with managing network usage in the residential halls
 
 h2. Skills
-* *Languages:* Strong experience with Python, Objective-C. Working experience with C, C++, Java, SQL(Structured Query Language), Javascript, HTML(HyperText Markup Language), CSS(Cascading Style Sheets), Perl
-* *Software &amp; Development Tools:* Strong experience with vim, Subversion, PostgreSQL. Working experience with Textmate, XCode, Eclipse, Trac, Bugzilla, Visual Studio 2008, SQLite
-* *Operating Systems:* Strong experience with Unix and Mac OSX development environments
-* *Personal:* Able to read, write, and speak conversational Mandarin, big fan of playing and watching sports
+*(bullet) *Languages:* Strong experience with Python, Objective-C. Working experience with C, C++, Java, SQL(Structured Query Language), Javascript, HTML(HyperText Markup Language), CSS(Cascading Style Sheets)
+*(bullet) *Software &amp; Development Tools:* Strong experience with vim, Subversion, PostgreSQL. Working experience with Textmate, XCode, Eclipse, Trac, Bugzilla, Visual Studio 2008, SQLite
+*(bullet) *Operating Systems:* Strong experience with Unix and Mac OSX development environments
+*(bullet) *Personal:* Able to read, write, and speak conversational Mandarin, big fan of playing and watching sports
 
 h2. Honors
 
-* Eta Kappa Nu Honor Society - 2009
-* UC Berkeley Regents' and Chancellor's Scholar - 2007
-* National Merit Scholar - 2007
-* Eagle Scout: Boy Scouts of America - 2007
+*(bullet) Eta Kappa Nu Honor Society - 2009
+*(bullet) UC Berkeley Regents' and Chancellor's Scholar - 2007
+*(bullet) National Merit Scholar - 2007
+*(bullet) Eagle Scout: Boy Scouts of America - 2007
 
 h2. Schoolwork
 
-* Implemented operating system threads, thread schedulers, software TLB/virtual memory paging in NACHOS OS
-* Designed a 16-bit CPU virtually using Logisim, wrote a cahe simulator in C, and wrote C functions in MIPS
-* Executed various search and AI algorithms (such as A* and expectimax) to Pacman game situations
-* Implemented a compiler for a statically-typed derivative of the Python programming language
+*(bullet) Implemented operating system threads, thread schedulers, software TLB/virtual memory paging in NACHOS OS
+*(bullet) Designed a 16-bit CPU virtually using Logisim, wrote a cahe simulator in C, and wrote C functions in MIPS
+*(bullet) Executed various search and AI algorithms (such as A* and expectimax) to Pacman game situations
+*(bullet) Implemented a compiler for a statically-typed derivative of the Python programming language
 </div>
