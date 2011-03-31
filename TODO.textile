@@ -1,0 +1,4 @@
+h2. Todos
+
+* Links from home page to resume, about, etc.
+** Do this in side bar
