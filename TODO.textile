@@ -2,3 +2,13 @@ h2. Todos
 
 * Links from home page to resume, about, etc.
 ** Do this in side bar
+* 404 page
+* Optimize for page speed
+* rss feed
+* timeago.js
+* CSS processor
+** SASS
+* Change font (Palantino, Georgia?)
+* Smaller Width
+* Vertical "rhythm" (aardvark)
+* printing (http://www.alistapart.com/articles/goingtoprint/) 
