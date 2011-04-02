@@ -7,8 +7,12 @@ h2. Todos
 * rss feed
 * timeago.js
 * CSS processor
-** SASS
+** SASS (http://sass-lang.com/about.html)
 * Change font (Palantino, Georgia?)
 * Smaller Width
+* Minify css (integrate into sass plugin somehow?)
 * Vertical "rhythm" (aardvark)
 * printing (http://www.alistapart.com/articles/goingtoprint/) 
+* validation
+** http://validator.w3.org/
+** http://jigsaw.w3.org/css-validator/
